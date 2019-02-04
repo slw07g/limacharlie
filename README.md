@@ -1,10 +1,6 @@
 # LIMA CHARLIE
 ![LIMA CHARLIE](https://raw.github.com/refractionPOINT/limacharlie/master/doc/lc.png)
 
-*Stay up to date with new features and detection modules: [@rp_limacharlie](https://twitter.com/rp_limacharlie)*
-*Need help? Contact other LC users via the Google Group: https://groups.google.com/d/forum/limacharlie*
-*For more direct enquiries, contact us at limacharlie@refractionpoint.com*
-
 ## Overview
 LIMA CHARLIE is an endpoint security platform. It is itself a collection of small projects all working together
 to become the LC platform. LC gives you a cross-platform (Windows, OSX, Linux, Android and iOS) low-level 
